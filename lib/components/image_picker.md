@@ -9,7 +9,7 @@
 
 ### 安卓
 
-- AndroidManifest.xml
+> AndroidManifest.xml
 
     
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -17,8 +17,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
   
 
-- info.list
-
+>info.list
 
     <key>NSPhotoLibraryUsageDescription</key>
     <string>To upload photos, please allow permission to access your photo library.</string>
@@ -26,6 +25,7 @@
     <string>告诉用户你使用相机的目的</string>
     <key>NSMicrophoneUsageDescription</key>
     <string>告诉用户你使用麦克风的目的</string>
+
 
 ### 使用例子
 
